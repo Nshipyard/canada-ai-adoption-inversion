@@ -10,7 +10,7 @@ const en = {
     line: "An open-source civic project. Not affiliated with the Government of Canada or the U.S. Census Bureau.",
     badge: "Open source",
   },
-  nav: { chart: "The chart", sectors: "Sectors", caveats: "Caveats", methodology: "Methodology", developers: "Developers", data: "Data", back: "All projects" },
+  nav: { chart: "The chart", sectors: "Sectors", showcase: "Showcase", caveats: "Caveats", methodology: "Methodology", developers: "Developers", data: "Data", back: "All projects" },
   hero: {
     kicker: "Nshipyard Canada · The Adoption Inversion",
     title: "On the one AI question both countries asked, Canada was ahead.",
@@ -70,6 +70,29 @@ const en = {
     kicker: "Why this exists",
     title: "The claim being rebutted.",
     body: "Through 2026, commentary has repeated that Canadian businesses trail U.S. businesses in AI adoption, including a Macdonald-Laurier Institute piece in October 2026 and widely shared KPMG-sourced claims of 72% U.S. versus 35% Canadian large-firm use. Those comparisons mix different questions, different reference windows, and different firm-size cuts. On the one question both governments asked in nearly identical words, the official numbers say the opposite. That is the entire argument of this page, and the caveats above are part of it.",
+  },
+  showcase: {
+    kicker: "Showcase",
+    title: "Questions you couldn't ask before.",
+    body: "Three questions this page answers for the first time, each with its number and its source.",
+    source: "Sources",
+    items: [
+      {
+        q: "Was Canada really behind the US in AI adoption?",
+        answer: "No. On the nearly identically worded survey question, 12.2% of Canadian businesses used AI in Q2 2025, against 10.0% of US businesses in September 2025. The 'Canada lags' narrative rests on mismatched numbers.",
+        sources: "Statistics Canada, Canadian Survey on Business Conditions; U.S. Census Bureau, Business Trends and Outlook Survey",
+      },
+      {
+        q: "Which Canadian sectors lead AI adoption?",
+        answer: "Information and cultural industries at 35.6%, professional, scientific and technical services at 31.7%, and finance and insurance at 30.6%, all in Q2 2025.",
+        sources: "Statistics Canada, Canadian Survey on Business Conditions, Q2 2025",
+      },
+      {
+        q: "What happened when the US changed its survey question?",
+        answer: "In November 2025 the Census Bureau changed the wording to 'in any of its business functions' and the US reading jumped to 17.3%. That is a methodology break, not real adoption growth, which is why this page uses only the pre-break series.",
+        sources: "U.S. Census Bureau, Business Trends and Outlook Survey",
+      },
+    ],
   },
   methodology: {
     kicker: "Methodology",
@@ -146,7 +169,7 @@ const fr: Dict = {
     line: "Un projet civique à code source ouvert. Sans affiliation avec le gouvernement du Canada ni le Bureau du recensement des États-Unis.",
     badge: "Code source ouvert",
   },
-  nav: { chart: "Le graphique", sectors: "Secteurs", caveats: "Réserves", methodology: "Méthodologie", developers: "Développeurs", data: "Données", back: "Tous les projets" },
+  nav: { chart: "Le graphique", sectors: "Secteurs", showcase: "Vitrine", caveats: "Réserves", methodology: "Méthodologie", developers: "Développeurs", data: "Données", back: "Tous les projets" },
   hero: {
     kicker: "Nshipyard Canada · L'inversion de l'adoption",
     title: "Sur la seule question d'IA posée par les deux pays, le Canada était en tête.",
@@ -206,6 +229,29 @@ const fr: Dict = {
     kicker: "Pourquoi ceci existe",
     title: "L'affirmation réfutée.",
     body: "En 2026, des commentaires ont répété que les entreprises canadiennes accusent un retard sur les américaines en adoption de l'IA, dont un texte de l'Institut Macdonald-Laurier en octobre 2026 et des affirmations largement partagées attribuées à KPMG (72 % aux É.-U. contre 35 % au Canada pour les grandes entreprises). Ces comparaisons mélangent des questions différentes, des fenêtres de référence différentes et des tranches de taille différentes. Sur la seule question posée en termes presque identiques par les deux gouvernements, les chiffres officiels disent le contraire. C'est tout l'argument de cette page, et les réserves ci-dessus en font partie.",
+  },
+  showcase: {
+    kicker: "Vitrine",
+    title: "Des questions qu'on ne pouvait pas poser avant.",
+    body: "Trois questions auxquelles cette page répond pour la première fois, chacune avec son chiffre et sa source.",
+    source: "Sources",
+    items: [
+      {
+        q: "Le Canada était-il vraiment en retard sur les États-Unis en adoption de l'IA ?",
+        answer: "Non. Sur la question posée en termes presque identiques, 12,2 % des entreprises canadiennes utilisaient l'IA au T2 2025, contre 10,0 % des entreprises américaines en septembre 2025. Le récit du « retard canadien » repose sur des chiffres incomparables.",
+        sources: "Statistique Canada, Enquête canadienne sur la situation des entreprises; Bureau du recensement des États-Unis, Business Trends and Outlook Survey",
+      },
+      {
+        q: "Quels secteurs canadiens mènent l'adoption de l'IA ?",
+        answer: "Les industries de l'information et culturelles à 35,6 %, les services professionnels, scientifiques et techniques à 31,7 %, et la finance et les assurances à 30,6 %, tous au T2 2025.",
+        sources: "Statistique Canada, Enquête canadienne sur la situation des entreprises, T2 2025",
+      },
+      {
+        q: "Que s'est-il passé quand les États-Unis ont changé leur question ?",
+        answer: "En novembre 2025, le Bureau du recensement a changé le libellé pour « dans l'une ou l'autre de ses fonctions d'affaires » et la mesure américaine a bondi à 17,3 %. C'est une rupture méthodologique, pas une croissance réelle de l'adoption, et c'est pourquoi cette page n'utilise que la série d'avant la rupture.",
+        sources: "Bureau du recensement des États-Unis, Business Trends and Outlook Survey",
+      },
+    ],
   },
   methodology: {
     kicker: "Méthodologie",

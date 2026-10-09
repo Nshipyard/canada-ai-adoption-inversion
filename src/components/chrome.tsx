@@ -41,6 +41,7 @@ export function Nav() {
   const links = [
     { href: "#chart", label: t.nav.chart },
     { href: "#sectors", label: t.nav.sectors },
+    { href: "#showcase", label: t.nav.showcase },
     { href: "#caveats", label: t.nav.caveats },
     { href: "#methodology", label: t.methodology.kicker },
     { href: "#developers", label: t.nav.developers },
