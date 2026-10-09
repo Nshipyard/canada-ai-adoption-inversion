@@ -1,0 +1,21 @@
+naics,sector,pct_yes
+11,"Agriculture, forestry, fishing and hunting",S
+21,"Mining, quarrying, and oil and gas extraction",S
+22,Utilities,S
+23,Construction,4.5
+31,Manufacturing,4.6
+42,Wholesale trade,5.4
+44,Retail trade,6.3
+48,Transportation and warehousing,2.1
+51,Information,29.3
+52,Finance and insurance,17.1
+53,Real estate and rental and leasing,14.6
+54,"Professional, scientific and technical services",23.9
+55,Management of companies and enterprises,S
+56,"Administrative and support, waste management and remediation services",10.2
+61,Educational services,17.3
+62,Health care and social assistance,11.4
+71,"Arts, entertainment and recreation",6.0
+72,Accommodation and food services,2.0
+81,Other services (except public administration),4.0
+XX,Multi-unit companies,8.1

@@ -1,0 +1,19 @@
+{
+  "project": "canada-ai-adoption-inversion",
+  "question": "On the one AI-adoption survey question Canada and the US asked businesses in nearly identical words, which country is actually ahead?",
+  "headline_2025": {
+    "canada_pct": 12.2,
+    "canada_label": "Q2 2025",
+    "us_pct": 10.0,
+    "us_label": "Sept 2025"
+  },
+  "key_caveat": "Reference windows differ: StatCan asks about the 12 months preceding the survey; BTOS asks about the last two weeks. A longer window mechanically raises the share answering yes.",
+  "pull_date": "2026-10-09",
+  "license": "MIT",
+  "sources": {
+    "statcan_q2_2025": "https://www150.statcan.gc.ca/n1/pub/11-621-m/11-621-m2025008-eng.htm",
+    "statcan_q2_2026": "https://www150.statcan.gc.ca/n1/pub/11-621-m/11-621-m2026010-eng.htm",
+    "census_btos_downloads": "https://www.census.gov/hfp/btos/downloads/",
+    "census_wording_change": "https://www.census.gov/hfp/btos/downloads/AI%20Question%20Wording%20Updates.pdf"
+  }
+}

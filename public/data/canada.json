@@ -1,0 +1,62 @@
+{
+  "question": "Used artificial intelligence to produce goods or deliver services over the 12 months preceding the survey",
+  "survey": "Canadian Survey on Business Conditions",
+  "source_publication": "https://www150.statcan.gc.ca/n1/pub/11-621-m/11-621-m2025008-eng.htm",
+  "source_table_cited": "33-10-1004-01",
+  "sample": {
+    "invited": 21357,
+    "respondents": 9103
+  },
+  "headline": [
+    {
+      "quarter": "Q2 2024",
+      "collection": "2024-04-02 to 2024-05-06",
+      "pct": 6.1
+    },
+    {
+      "quarter": "Q2 2025",
+      "collection": "2025-04-01 to 2025-05-05",
+      "pct": 12.2
+    },
+    {
+      "quarter": "Q2 2026",
+      "collection": "2026-04-01 to 2026-05-06",
+      "pct": 19.2,
+      "source": "https://www150.statcan.gc.ca/n1/pub/11-621-m/11-621-m2026010-eng.htm",
+      "note": "latest available at build time"
+    }
+  ],
+  "sectors_q2_2025": [
+    {
+      "sector": "Information and cultural industries",
+      "pct_2025": 35.6,
+      "pct_2024": 20.9
+    },
+    {
+      "sector": "Professional, scientific and technical services",
+      "pct_2025": 31.7,
+      "pct_2024": 13.7
+    },
+    {
+      "sector": "Finance and insurance",
+      "pct_2025": 30.6,
+      "pct_2024": 10.9
+    },
+    {
+      "sector": "Accommodation and food services",
+      "pct_2025": 1.5,
+      "pct_2024": null
+    },
+    {
+      "sector": "Agriculture, forestry, fishing and hunting",
+      "pct_2025": 1.8,
+      "pct_2024": null
+    },
+    {
+      "sector": "Transportation and warehousing",
+      "pct_2025": 1.8,
+      "pct_2024": null
+    }
+  ],
+  "firm_size_note": "Firm-size cuts are published in CSBC Table 33-10-1005, which was not retrievable at build time; US-only firm-size panel shown."
+}

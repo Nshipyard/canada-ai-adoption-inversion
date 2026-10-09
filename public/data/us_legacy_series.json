@@ -1,0 +1,539 @@
+{
+  "question": "In the last two weeks, did this business use Artificial Intelligence (AI) in producing goods or services?",
+  "survey": "Business Trends and Outlook Survey (BTOS)",
+  "source_file": "AI Core Questions (legacy wording series)",
+  "source_file_url": "https://www.census.gov/hfp/btos/downloads/",
+  "wording_change_pdf": "https://www.census.gov/hfp/btos/downloads/AI%20Question%20Wording%20Updates.pdf",
+  "pull_date": "2026-10-09",
+  "wording_change": "2025-11-17",
+  "new_series_start": "2025-12-04",
+  "sept_points": [
+    {
+      "label": "Sept 2023",
+      "fortnight": "202320",
+      "pct": 3.7
+    },
+    {
+      "label": "Sept 2024",
+      "fortnight": "202420",
+      "pct": 6.0
+    },
+    {
+      "label": "Sept 2025",
+      "fortnight": "202520",
+      "pct": 10.0
+    }
+  ],
+  "fortnightly": [
+    {
+      "fortnight": "202319",
+      "col_start": "09/11/2023",
+      "ref_start": "08/28/2023",
+      "ref_end": "09/10/2023",
+      "pct": 3.7
+    },
+    {
+      "fortnight": "202320",
+      "col_start": "09/25/2023",
+      "ref_start": "09/11/2023",
+      "ref_end": "09/24/2023",
+      "pct": 3.7
+    },
+    {
+      "fortnight": "202321",
+      "col_start": "10/09/2023",
+      "ref_start": "09/25/2023",
+      "ref_end": "10/08/2023",
+      "pct": 3.8
+    },
+    {
+      "fortnight": "202322",
+      "col_start": "10/23/2023",
+      "ref_start": "10/09/2023",
+      "ref_end": "10/22/2023",
+      "pct": 3.9
+    },
+    {
+      "fortnight": "202323",
+      "col_start": "11/06/2023",
+      "ref_start": "10/23/2023",
+      "ref_end": "11/05/2023",
+      "pct": 4.4
+    },
+    {
+      "fortnight": "202324",
+      "col_start": "11/20/2023",
+      "ref_start": "11/06/2023",
+      "ref_end": "11/19/2023",
+      "pct": 4.6
+    },
+    {
+      "fortnight": "202325",
+      "col_start": "12/04/2023",
+      "ref_start": "11/20/2023",
+      "ref_end": "12/03/2023",
+      "pct": 4.9
+    },
+    {
+      "fortnight": "202326",
+      "col_start": "12/18/2023",
+      "ref_start": "12/04/2023",
+      "ref_end": "12/17/2023",
+      "pct": 4.9
+    },
+    {
+      "fortnight": "202401",
+      "col_start": "01/01/2024",
+      "ref_start": "12/18/2023",
+      "ref_end": "12/31/2023",
+      "pct": 4.6
+    },
+    {
+      "fortnight": "202402",
+      "col_start": "01/15/2024",
+      "ref_start": "01/01/2024",
+      "ref_end": "01/14/2024",
+      "pct": 5.3
+    },
+    {
+      "fortnight": "202403",
+      "col_start": "01/29/2024",
+      "ref_start": "01/15/2024",
+      "ref_end": "01/28/2024",
+      "pct": 5.0
+    },
+    {
+      "fortnight": "202404",
+      "col_start": "02/12/2024",
+      "ref_start": "01/29/2024",
+      "ref_end": "02/11/2024",
+      "pct": 5.4
+    },
+    {
+      "fortnight": "202405",
+      "col_start": "02/26/2024",
+      "ref_start": "02/12/2024",
+      "ref_end": "02/25/2024",
+      "pct": 4.3
+    },
+    {
+      "fortnight": "202406",
+      "col_start": "03/11/2024",
+      "ref_start": "02/26/2024",
+      "ref_end": "03/10/2024",
+      "pct": 4.4
+    },
+    {
+      "fortnight": "202407",
+      "col_start": "03/25/2024",
+      "ref_start": "03/11/2024",
+      "ref_end": "03/24/2024",
+      "pct": 4.2
+    },
+    {
+      "fortnight": "202408",
+      "col_start": "04/08/2024",
+      "ref_start": "03/25/2024",
+      "ref_end": "04/07/2024",
+      "pct": 4.8
+    },
+    {
+      "fortnight": "202409",
+      "col_start": "04/22/2024",
+      "ref_start": "04/08/2024",
+      "ref_end": "04/21/2024",
+      "pct": 4.7
+    },
+    {
+      "fortnight": "202410",
+      "col_start": "05/06/2024",
+      "ref_start": "04/22/2024",
+      "ref_end": "05/05/2024",
+      "pct": 4.8
+    },
+    {
+      "fortnight": "202411",
+      "col_start": "05/20/2024",
+      "ref_start": "05/06/2024",
+      "ref_end": "05/19/2024",
+      "pct": 4.6
+    },
+    {
+      "fortnight": "202412",
+      "col_start": "06/03/2024",
+      "ref_start": "05/20/2024",
+      "ref_end": "06/02/2024",
+      "pct": 5.0
+    },
+    {
+      "fortnight": "202413",
+      "col_start": "06/17/2024",
+      "ref_start": "06/03/2024",
+      "ref_end": "06/16/2024",
+      "pct": 4.7
+    },
+    {
+      "fortnight": "202414",
+      "col_start": "07/01/2024",
+      "ref_start": "06/17/2024",
+      "ref_end": "06/30/2024",
+      "pct": 5.0
+    },
+    {
+      "fortnight": "202415",
+      "col_start": "07/15/2024",
+      "ref_start": "07/01/2024",
+      "ref_end": "07/14/2024",
+      "pct": 5.1
+    },
+    {
+      "fortnight": "202416",
+      "col_start": "07/29/2024",
+      "ref_start": "07/15/2024",
+      "ref_end": "07/28/2024",
+      "pct": 5.1
+    },
+    {
+      "fortnight": "202417",
+      "col_start": "08/12/2024",
+      "ref_start": "07/29/2024",
+      "ref_end": "08/11/2024",
+      "pct": 5.5
+    },
+    {
+      "fortnight": "202418",
+      "col_start": "08/26/2024",
+      "ref_start": "08/12/2024",
+      "ref_end": "08/25/2024",
+      "pct": 5.7
+    },
+    {
+      "fortnight": "202419",
+      "col_start": "09/09/2024",
+      "ref_start": "08/26/2024",
+      "ref_end": "09/08/2024",
+      "pct": 5.9
+    },
+    {
+      "fortnight": "202420",
+      "col_start": "09/23/2024",
+      "ref_start": "09/09/2024",
+      "ref_end": "09/22/2024",
+      "pct": 6.0
+    },
+    {
+      "fortnight": "202421",
+      "col_start": "10/07/2024",
+      "ref_start": "09/23/2024",
+      "ref_end": "10/06/2024",
+      "pct": 6.0
+    },
+    {
+      "fortnight": "202422",
+      "col_start": "10/21/2024",
+      "ref_start": "10/07/2024",
+      "ref_end": "10/20/2024",
+      "pct": 6.0
+    },
+    {
+      "fortnight": "202423",
+      "col_start": "11/04/2024",
+      "ref_start": "10/21/2024",
+      "ref_end": "11/03/2024",
+      "pct": 6.1
+    },
+    {
+      "fortnight": "202424",
+      "col_start": "11/18/2024",
+      "ref_start": "11/04/2024",
+      "ref_end": "11/17/2024",
+      "pct": 6.1
+    },
+    {
+      "fortnight": "202425",
+      "col_start": "12/02/2024",
+      "ref_start": "11/18/2024",
+      "ref_end": "12/01/2024",
+      "pct": 6.1
+    },
+    {
+      "fortnight": "202426",
+      "col_start": "12/16/2024",
+      "ref_start": "12/02/2024",
+      "ref_end": "12/15/2024",
+      "pct": 6.3
+    },
+    {
+      "fortnight": "202501",
+      "col_start": "12/30/2024",
+      "ref_start": "12/16/2024",
+      "ref_end": "12/29/2024",
+      "pct": 6.0
+    },
+    {
+      "fortnight": "202502",
+      "col_start": "01/13/2025",
+      "ref_start": "12/30/2024",
+      "ref_end": "01/12/2025",
+      "pct": 6.7
+    },
+    {
+      "fortnight": "202503",
+      "col_start": "01/27/2025",
+      "ref_start": "01/13/2025",
+      "ref_end": "01/26/2025",
+      "pct": 6.8
+    },
+    {
+      "fortnight": "202504",
+      "col_start": "02/10/2025",
+      "ref_start": "01/27/2025",
+      "ref_end": "02/09/2025",
+      "pct": 7.3
+    },
+    {
+      "fortnight": "202505",
+      "col_start": "02/24/2025",
+      "ref_start": "02/10/2025",
+      "ref_end": "02/23/2025",
+      "pct": 7.4
+    },
+    {
+      "fortnight": "202506",
+      "col_start": "03/10/2025",
+      "ref_start": "02/24/2025",
+      "ref_end": "03/09/2025",
+      "pct": 7.8
+    },
+    {
+      "fortnight": "202507",
+      "col_start": "03/24/2025",
+      "ref_start": "03/10/2025",
+      "ref_end": "03/23/2025",
+      "pct": 8.0
+    },
+    {
+      "fortnight": "202508",
+      "col_start": "04/07/2025",
+      "ref_start": "03/24/2025",
+      "ref_end": "04/06/2025",
+      "pct": 8.3
+    },
+    {
+      "fortnight": "202509",
+      "col_start": "04/21/2025",
+      "ref_start": "04/07/2025",
+      "ref_end": "04/20/2025",
+      "pct": 8.7
+    },
+    {
+      "fortnight": "202510",
+      "col_start": "05/05/2025",
+      "ref_start": "04/21/2025",
+      "ref_end": "05/04/2025",
+      "pct": 8.7
+    },
+    {
+      "fortnight": "202511",
+      "col_start": "05/19/2025",
+      "ref_start": "05/05/2025",
+      "ref_end": "05/18/2025",
+      "pct": 9.2
+    },
+    {
+      "fortnight": "202512",
+      "col_start": "06/02/2025",
+      "ref_start": "05/19/2025",
+      "ref_end": "06/01/2025",
+      "pct": 9.2
+    },
+    {
+      "fortnight": "202513",
+      "col_start": "06/16/2025",
+      "ref_start": "06/02/2025",
+      "ref_end": "06/15/2025",
+      "pct": 9.3
+    },
+    {
+      "fortnight": "202514",
+      "col_start": "06/30/2025",
+      "ref_start": "06/16/2025",
+      "ref_end": "06/29/2025",
+      "pct": 9.3
+    },
+    {
+      "fortnight": "202515",
+      "col_start": "07/14/2025",
+      "ref_start": "06/30/2025",
+      "ref_end": "07/13/2025",
+      "pct": 9.4
+    },
+    {
+      "fortnight": "202516",
+      "col_start": "07/28/2025",
+      "ref_start": "07/14/2025",
+      "ref_end": "07/27/2025",
+      "pct": 8.8
+    },
+    {
+      "fortnight": "202517",
+      "col_start": "08/11/2025",
+      "ref_start": "07/28/2025",
+      "ref_end": "08/10/2025",
+      "pct": 9.7
+    },
+    {
+      "fortnight": "202518",
+      "col_start": "08/25/2025",
+      "ref_start": "08/11/2025",
+      "ref_end": "08/24/2025",
+      "pct": 9.1
+    },
+    {
+      "fortnight": "202519",
+      "col_start": "09/08/2025",
+      "ref_start": "08/25/2025",
+      "ref_end": "09/07/2025",
+      "pct": 9.9
+    },
+    {
+      "fortnight": "202520",
+      "col_start": "09/22/2025",
+      "ref_start": "09/08/2025",
+      "ref_end": "09/21/2025",
+      "pct": 10.0
+    }
+  ],
+  "sectors_sept_2025": [
+    {
+      "naics": "11",
+      "sector": "Agriculture, forestry, fishing and hunting",
+      "pct": null
+    },
+    {
+      "naics": "21",
+      "sector": "Mining, quarrying, and oil and gas extraction",
+      "pct": null
+    },
+    {
+      "naics": "22",
+      "sector": "Utilities",
+      "pct": null
+    },
+    {
+      "naics": "23",
+      "sector": "Construction",
+      "pct": 4.5
+    },
+    {
+      "naics": "31",
+      "sector": "Manufacturing",
+      "pct": 4.6
+    },
+    {
+      "naics": "42",
+      "sector": "Wholesale trade",
+      "pct": 5.4
+    },
+    {
+      "naics": "44",
+      "sector": "Retail trade",
+      "pct": 6.3
+    },
+    {
+      "naics": "48",
+      "sector": "Transportation and warehousing",
+      "pct": 2.1
+    },
+    {
+      "naics": "51",
+      "sector": "Information",
+      "pct": 29.3
+    },
+    {
+      "naics": "52",
+      "sector": "Finance and insurance",
+      "pct": 17.1
+    },
+    {
+      "naics": "53",
+      "sector": "Real estate and rental and leasing",
+      "pct": 14.6
+    },
+    {
+      "naics": "54",
+      "sector": "Professional, scientific and technical services",
+      "pct": 23.9
+    },
+    {
+      "naics": "55",
+      "sector": "Management of companies and enterprises",
+      "pct": null
+    },
+    {
+      "naics": "56",
+      "sector": "Administrative and support, waste management and remediation services",
+      "pct": 10.2
+    },
+    {
+      "naics": "61",
+      "sector": "Educational services",
+      "pct": 17.3
+    },
+    {
+      "naics": "62",
+      "sector": "Health care and social assistance",
+      "pct": 11.4
+    },
+    {
+      "naics": "71",
+      "sector": "Arts, entertainment and recreation",
+      "pct": 6.0
+    },
+    {
+      "naics": "72",
+      "sector": "Accommodation and food services",
+      "pct": 2.0
+    },
+    {
+      "naics": "81",
+      "sector": "Other services (except public administration)",
+      "pct": 4.0
+    },
+    {
+      "naics": "XX",
+      "sector": "Multi-unit companies",
+      "pct": 8.1
+    }
+  ],
+  "firm_size_sept_2025": [
+    {
+      "band": "1-4",
+      "pct": 11.0
+    },
+    {
+      "band": "5-9",
+      "pct": 8.6
+    },
+    {
+      "band": "10-19",
+      "pct": 8.1
+    },
+    {
+      "band": "20-49",
+      "pct": 7.0
+    },
+    {
+      "band": "50-99",
+      "pct": 9.7
+    },
+    {
+      "band": "100-249",
+      "pct": 8.8
+    },
+    {
+      "band": "250+",
+      "pct": 13.0
+    }
+  ]
+}
