@@ -6,6 +6,7 @@ import "@fontsource/inter/500.css";
 import "@fontsource/inter/600.css";
 import "./globals.css";
 import { LangProvider } from "@/i18n";
+import { PosthogProvider } from "../components/PosthogProvider";
 
 const title = "The Adoption Inversion: on the one AI question both countries asked, Canada was ahead";
 const description =
@@ -46,9 +47,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
       </head>
-      <body className="min-h-full flex flex-col">
+      <body className="min-h-full flex flex-col"><PosthogProvider>
         <LangProvider>{children}</LangProvider>
-      </body>
+      </PosthogProvider></body>
     </html>
   );
 }
